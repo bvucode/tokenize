@@ -1,3 +1,3 @@
 # tokenize
 
-rust module for tokenkze text
+rust module for tokenize text
